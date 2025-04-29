@@ -1,4 +1,4 @@
-import HME from "h264-mp4-encoder";
+import HME from "h264-mp4-encoder/embuild/dist/h264-mp4-encoder.web.js";
 import Encoder from "./Encoder.js";
 
 import { estimateBitRate, nextMultiple } from "../utils.js";
